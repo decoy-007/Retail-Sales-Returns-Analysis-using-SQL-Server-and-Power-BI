@@ -1,0 +1,19 @@
+Insight 1 — Gauteng dominates regional sales.
+
+Gauteng generated approximately R4.5 million, making it the strongest-performing province. This could inform regional marketing and sales strategies.
+
+Insight 2 — Sales channels are relatively balanced.
+
+Partner generated R5.39M, Online R5.23M and Retail R4.82M. The business is not relying on just one sales channel.
+
+Insight 3 — Customer segments contribute relatively evenly.
+
+Corporate, Consumer and Small Business customers generated approximately R5.2M, R5.1M and R4.8M respectively. This suggests that the business serves several meaningful customer markets.
+
+Insight 4 — Product naming inconsistencies affect reporting.
+
+Two different product IDs shared the Core Webcam name. Grouping by product ID produced separate revenue figures, while grouping by product name combined them into R742,391.87. This demonstrates why product master data must be validated.
+
+Insight 5 — Product prices require further validation.
+
+The recorded transaction prices differed from the master prices for the two Core Webcam records. This is an important finding because incorrect master data can affect product-level analysis and business decisions.
